@@ -25,8 +25,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
-- 📫 How to reach me **jeonghaheon@gmail.com**
+📫 How to reach me **jeonghaheon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
